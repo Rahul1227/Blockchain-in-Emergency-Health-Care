@@ -14,6 +14,7 @@ The project involves the development and deployment of the following smart contr
 5. **Traffic Police Smart Contract**: Monitors traffic conditions, provides real-time traffic details, and optimizes ambulance routes to reduce travel time.
 
 ## Workflow
+![Alt Text](https://github.com/Rahul1227/Blockchain-in-Emergency-Health-Care/blob/master/model1.png)
 
 1. **Accident Reporting**: The observer reports an accident to the control center, providing necessary details.
 2. **Accident Verification**: The control center verifies the accident using traffic police video feedback.
